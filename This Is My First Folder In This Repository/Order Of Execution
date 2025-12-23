@@ -1,1 +1,24 @@
+The Order of Execution: Unpacking the Salesforce Save Process
+9 June 2025|Salesforce
 
+Order of Execution (All 16 Steps)
+Load existing record (if updating)
+Load new field values (Older values are overwritten) first two points when we update the record.
+System validations (required fields, data types, etc. These Validations are predefined in Salesforce to have consistency in the data).
+Before triggers (First Before Flow Triggers and then Before Apex Triggers)run
+Custom validation rules run(Custom Validation Rules are criteria what we decide for the particular field. If the criteria is not matched then the error message will be shown.)
+Duplicate rules check (if enabled)(Duplicate rule prevents duplicate entries on the records, before Creating Duplicate rule First we need create the matching rule  in which we need to set which fields should not contains duplicate values for the different record. )
+Record saved to database (but not committed)
+After triggers (First After Flow Trigger and then After Apex Triggers)run
+Assignment rules (for Leads/Cases)>>>Lead or Case will be assign to the user depending on the logic written on Assignment rule.
+Auto-response rules (for Leads/Cases)>>> Once Case or Lead Is created automatic email will be sent out.(Example for lead like : thanks for showing interest in our product mail And for Cases Example like: Your Case is Created  and your Case Number is :000xxx123 ).
+Workflow rules (field updates may re-trigger steps)
+Processes and flows (Process Builder, Flows)
+Escalation rules (Cases)>>>If case is not resolved in the given business hour in escalation rule it will be escalated to the other user or queue of users.
+Entitlement rules (if used)
+Roll-up summary fields (may re-trigger parent record) Roll-up summaries field is exclusively for master detail relationship where we can have rollup summary field on parent(master) object to get the (Count, sum, min, max) of the child(detail) object’s field.
+Post-commit logic
+Email alerts
+Async Apex (@future, Queueable, Batch)
+Platform Events
+Chatter posts
