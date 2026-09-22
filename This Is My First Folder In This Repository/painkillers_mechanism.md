@@ -1,4 +1,7 @@
 # How Painkillers and Antipyretics Work at the Molecular Level
+<img width="1312" height="1199" alt="8d14103f-1f8a-48f6-bebf-26a817e7865b" src="https://github.com/user-attachments/assets/5cf45246-f8c2-440c-9b6a-a9a03165542e" />
+<img width="1536" height="1024" alt="6414db40-52f8-4605-876e-d38554f7ee20" src="https://github.com/user-attachments/assets/85add65d-907c-48aa-aca1-bd5375754318" />
+
 
 ## Overview
 Both painkillers and antipyretics mainly work by blocking the enzyme **COX (cyclooxygenase)**. This blocking action reduces the production of **prostaglandins**—the chemicals responsible for causing pain, inflammation, and fever.
@@ -66,6 +69,10 @@ Both painkillers and antipyretics mainly work by blocking the enzyme **COX (cycl
 
 ---
 
-**In Short:** Cytokines $ightarrow$ Activate COX $ightarrow$ COX + Arachidonic Acid $ightarrow$ Prostaglandins $ightarrow$ Pain, Fever & Inflammation. Painkillers and antipyretics block the COX enzyme active site, stopping prostaglandin production and providing relief.
+**In Short:** Cytokines $
+ightarrow$ Activate COX $
+ightarrow$ COX + Arachidonic Acid $
+ightarrow$ Prostaglandins $
+ightarrow$ Pain, Fever & Inflammation. Painkillers and antipyretics block the COX enzyme active site, stopping prostaglandin production and providing relief.
 
 [^1]: This is for informational purposes only. For medical advice or diagnosis, consult a professional. AI responses may include mistakes.
