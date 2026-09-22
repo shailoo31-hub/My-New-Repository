@@ -69,10 +69,9 @@ Both painkillers and antipyretics mainly work by blocking the enzyme **COX (cycl
 
 ---
 
-**In Short:** Cytokines $
- Activate COX $
-rightarrow$ COX + Arachidonic Acid $
-rightarrow$ Prostaglandins $
-rightarrow$ Pain, Fever & Inflammation. Painkillers and antipyretics block the COX enzyme active site, stopping prostaglandin production and providing relief.
+**In Short:** Cytokines >>> Activate COX 
+>>> COX + Arachidonic Acid $
+>>> Prostaglandins $
+>>> Pain, Fever & Inflammation. Painkillers and antipyretics block the COX enzyme active site, stopping prostaglandin production and providing relief.
 
 **This is for informational purposes only. For medical advice or diagnosis, consult a professional.**
