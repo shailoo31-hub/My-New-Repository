@@ -47,6 +47,8 @@ We haven't changed the name purely because of human history. Hundreds of years a
 ---
 
 ## 4. Cosmic Weight-Hopping: Same Mass, Different Worlds
+<img width="1408" height="768" alt="image_acce66e" src="https://github.com/user-attachments/assets/0f6964e7-218b-47f8-99b4-c643adbca739" />
+
 Because weight is entirely dictated by the local pull of gravity, your true weight (in Newtons) fluctuates wildly depending on which celestial body you stand on. If you rocketed over to **Mars**, where gravity is weaker ($3.7 \text{ m/s}^2$), your 70 kg body would only exert about **259 Newtons** of force. Travel to massive **Jupiter**, and the crushing gravity ($24.79 \text{ m/s}^2$) spikes your weight to a massive **1,735 Newtons**! Yet, through all these interplanetary trips, your **mass remains locked at exactly 70 kg**. You haven't magically gained or lost a single atom of your physical body; the universe is simply pulling on those same atoms with vastly different amounts of strength.
 
 ---
