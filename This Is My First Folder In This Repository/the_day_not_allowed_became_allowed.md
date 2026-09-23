@@ -1,5 +1,5 @@
 # The Day "Not Allowed" Became Allowed
-
+<img width="1214" height="1295" alt="19b0325c-0604-424b-b2f9-209811077d67" src="https://github.com/user-attachments/assets/6b456092-68eb-451c-8a85-79134ff8cca6" />
 > **Same organization. Same people. Same work. Different rules. Just
 > because.**
 >
