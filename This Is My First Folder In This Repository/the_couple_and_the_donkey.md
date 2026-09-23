@@ -53,7 +53,7 @@ So the couple decided to use the donkey wisely, care for each other, and care fo
 
 ### The Moral
 **Listen to advice, but don't let every opinion control your life.** <br> 
-***They see a moment. You live the journey.*** [<br> 
+***They see a moment. You live the journey.*** <br> 
 
 ---
 *Walk your path with wisdom, balance and compassion. In the end, your journey is yours to live, not theirs to judge.* <br> 
