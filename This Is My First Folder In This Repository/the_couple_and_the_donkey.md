@@ -1,7 +1,7 @@
 ## The Couple, the Donkey, and the People
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/012593e4-fc5a-4314-a40c-f40745b9cc40" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/012593e4-fc5a-4314-a40c-f40745b9cc40" /><br>
 
-*They See a Moment. You Live the Journey.*
+*They See a Moment. You Live the Journey.*<br>
 A husband and wife were travelling to a distant village with their donkey.<br> No matter what they did, people had something to say.<br>  But they learned an important lesson.
 
 ---
