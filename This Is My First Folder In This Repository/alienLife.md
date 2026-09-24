@@ -1,0 +1,1 @@
+![alt text](alien_life_infographic.png)
