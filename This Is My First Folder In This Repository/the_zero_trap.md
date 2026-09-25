@@ -54,6 +54,6 @@ As the denominator gets microscopically close to zero, the answer rocket-ships t
 
 ## Conclusion
 
-Your intuition about the unchanging remainder is entirely correct. Dividing by zero is an infinite process, but it is an infinite process of waiting, not an infinite quantity. It is the mathematical equivalent of a computer program getting stuck in a "while" loop that it can never escape. 
+Dividing by zero is an infinite process, but it is an infinite process of waiting, not an infinite quantity. It is the mathematical equivalent of a computer program getting stuck in a "while" loop that it can never escape. 
 
 Zero holds a unique power in our universe. It is the only number that can swallow any other number through multiplication, and it is the only number capable of breaking the absolute laws of arithmetic just by sitting in the denominator.
