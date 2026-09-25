@@ -1,4 +1,6 @@
 # The Zero Trap: Why Your Brain Sees Infinity, But Mathematicians See a Broken Machine
+<img width="1376" height="768" alt="image_49631976" src="https://github.com/user-attachments/assets/554ba4d0-e4ca-4842-b45e-ac44e50943a0" />
+
 
 Imagine you are staring at a simple division problem on a chalkboard: $$5 \div 0$$. 
 
