@@ -100,12 +100,13 @@ When you trace the energy back to the power plant "godown," the efficiency casca
 3. **Charging (The Battery):** Converting AC grid power to DC power and chemically forcing it into the car's battery loses another **~10%** as heat.
 4. **Motion (The EV Motor):** Moving the wheels utilizes **~90%** of what is left in the battery.
 
-### The Final Multiplied Calculation:
+## The Final Multiplied Calculation:
+
 To discover the absolute total efficiency of this entire loop, we must multiply the efficiency of every individual stage together:
 
-$$	ext{Total System Efficiency} = 0.40 	imes 0.94 	imes 0.90 	imes 0.90 pprox \mathbf{30.4\%}$$
+$$\text{Total System Efficiency} = 0.40 \times 0.94 \times 0.90 \times 0.90 \approx \mathbf{30.4\%}$$
 
-When evaluated as an entire closed system, **an EV drawing power from a conventional fossil-fuel grid runs at roughly 30% total efficiency—strikingly similar to the efficiency of a standard gasoline vehicle.** The thermodynamic "showroom" brilliance fades into the reality of the "godown" power plant.
+When evaluated as an entire closed system, an EV drawing power from a conventional fossil-fuel grid runs at roughly 30% total efficiency—strikingly similar to the efficiency of a standard gasoline vehicle. The thermodynamic "showroom" brilliance fades into the reality of the "godown" power plant.
 
 ---
 
