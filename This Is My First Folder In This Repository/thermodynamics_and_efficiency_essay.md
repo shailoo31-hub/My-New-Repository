@@ -1,4 +1,6 @@
 # The Inescapable Tax of Physics: Why a 100% Efficient Engine Cannot Exist
+<img width="1312" height="1199" alt="73ac73c4-af41-41c4-8fe9-09a3514f9dff" src="https://github.com/user-attachments/assets/54e4538d-ce42-4b82-b6c9-bbf9bcd18541" />
+
 
 For centuries, inventors and engineers have chased the ultimate mechanical holy grail: an engine that transforms 100% of its fuel into pure, unadulterated work. In such a machine, every drop of fuel would go entirely toward moving a vehicle forward, leaving behind zero heat, zero exhaust, and zero wasted energy. 
 
