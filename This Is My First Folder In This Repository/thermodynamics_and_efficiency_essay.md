@@ -32,21 +32,21 @@ To contract the gas and push the piston back up, the engine **must cool the flui
 
 Carnot solidified this rule into a simple, elegant mathematical formula that calculates the maximum possible efficiency ($\eta$) any heat engine can achieve based purely on its operational temperatures:
 
-$$\eta = 1 - rac{T_C}{T_H}$$
+$$\eta = 1 - \frac{T_C}{T_H}$$
 
 *(Note: Temperatures must be calculated using the absolute Kelvin scale).*
 
-Looking closely at this equation, the efficiency can only equal **1** (which represents 100% efficiency) if the fraction $rac{T_C}{T_H}$ becomes exactly **zero**. Mathematically, there are only two ways to make this fraction zero:
+Looking closely at this equation, the efficiency can only equal 1 (which represents 100% efficiency) if the fraction $\frac{T_C}{T_H}$ becomes exactly zero. Mathematically, there are only two ways to make this fraction zero:
 
-### 1. Setting the Cold Reservoir to Absolute Zero ($T_C = 0	ext{ K}$)
-If the environment outside the engine is absolute zero, the equation reads $1 - rac{0}{T_H}$. Because zero divided by any number is zero, the equation yields $1 - 0 = 1$ (100%). However, the Third Law of Thermodynamics explicitly states that achieving absolute zero anywhere in the universe is physically impossible. 
+### 1. Setting the Cold Reservoir to Absolute Zero ($T_C = 0 \text{ K}$)
+If the environment outside the engine is absolute zero, the equation reads $1 - \frac{0}{T_H}$. Because zero divided by any number is zero, the equation yields $1 - 0 = 1$ (100%). However, the Third Law of Thermodynamics explicitly states that achieving absolute zero anywhere in the universe is physically impossible.
 
 ### 2. Setting the Hot Reservoir to Infinity ($T_H = \infty$)
-If the temperature of the burning fuel source is pushed to infinity, the equation becomes $1 - rac{T_C}{\infty}$. In calculus and basic mathematics, **if any finite number is divided by an infinitely large value, the result approaches zero**. 
+If the temperature of the burning fuel source is pushed to infinity, the equation becomes $1 - \frac{T_C}{\infty}$. In calculus and basic mathematics, if any finite number is divided by an infinitely large value, the result approaches zero:
 
-$$\lim_{T_H 	o \infty} rac{T_C}{T_H} = 0$$
+$$\lim_{T_H \to \infty} \frac{T_C}{T_H} = 0$$
 
-If $rac{T_C}{\infty}$ results in zero, the efficiency becomes $1 - 0 = 1$ (100%). Unfortunately, an infinitely hot engine is a physical impossibility; any material known to science would instantly vaporize long before reaching infinite temperatures.
+If $\frac{T_C}{\infty}$ results in zero, the efficiency becomes $1 - 0 = 1$ (100%). Unfortunately, an infinitely hot engine is a physical impossibility; any material known to science would instantly vaporize long before reaching infinite temperatures.
 
 Because our outside environment can never be absolute zero, and our fuels can never burn infinitely hot, the fraction $rac{T_C}{T_H}$ will **always be a number greater than zero**. Consequently, subtracting it from 1 ensures that maximum efficiency will always stay firmly below 100%.
 
