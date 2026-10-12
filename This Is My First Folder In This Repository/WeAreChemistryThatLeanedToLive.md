@@ -62,7 +62,7 @@ Nature itself produces substances that can be poisonous, while laboratories can 
 
 If a laboratory produces a molecule that is chemically identical to one found in nature, the molecule does not carry a label saying where it came from.
 
-Of course, natural products can have advantages in some situations, and the whole composition of a natural source can be different from a purified or synthetic version. But **“natural” by itself is not a guarantee of safety or health.**
+**Of course, natural products can have advantages in some situations, and the whole composition of a natural source can be different from a purified or synthetic version. But “natural” by itself is not a guarantee of safety or health.**
 
 And perhaps this leads to an even more fascinating thought:
 
