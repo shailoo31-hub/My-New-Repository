@@ -1,1 +1,1 @@
-<img width="1974" height="797" alt="Real Number System Extensions Infographic" src="https://github.com/user-attachments/assets/b77abb22-8cd0-4380-996f-31bd12539624" />
+<img width="1974" height="797" alt="Real Number System Extensions Infographic" src="https://github.com/user-attachments/assets/51c171b5-248d-4cc3-98e3-c0a4d105f77b" />
