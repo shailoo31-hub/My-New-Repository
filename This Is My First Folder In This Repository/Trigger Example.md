@@ -4,7 +4,12 @@ Both examples now show the complete flow:
 - Address example: Set<Id> → List<Contact> → Map<Id, String> → Account update.<br>
 ***One important note: The address example assumes one Contact address per Account. If multiple Contacts belong to the same Account, the Map will overwrite earlier addresses.***
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 trigger ContactTrigger on Contact (after insert) {
 
     Set<Id> accountIds = new Set<Id>();
