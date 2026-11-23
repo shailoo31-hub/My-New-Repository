@@ -1,4 +1,6 @@
-# LWC Component Communication in Salesforce: Bubbling, Pub-Sub and Lightning Message Service (LMS)
+# LWC Component Communication in Salesforce: Bubbling, Pub-Sub and Lightning Message Service (LMS)</br>
+<img width="1536" height="1024" alt="LWC Component Communication Cheat Sheet" src="https://github.com/user-attachments/assets/0bb57bcb-e49c-43eb-8c13-d4d02303831d" />
+
 
 ## 1. Introduction
 
